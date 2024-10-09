@@ -4,10 +4,24 @@
 
 ## WHY ?
 
-```
-J'ai choisi de faire une veille sur le moteur graphique Unreal Engine
-car je suis un gros joueur de Valorant et des rumeurs ont émerger
-disant que le jeu passerai prochainement sur ce moteur graphique 
-et je me souviens quand Fortnite etait passé sur UE5 et le résultat était vraiment stupéfiant 
-cela m'a donc intrigué pour Valorant.
-```
+J'ai choisi de faire une veille sur le moteur graphique **Unreal Engine**, car je suis un grand joueur de **Valorant**. <br>
+Récemment, des rumeurs ont émergé, annonçant que le jeu pourrait bientôt passer sur ce moteur graphique. <br>
+Je me souviens du moment où **Fortnite** est passé sur Unreal Engine 5, et le résultat était vraiment stupéfiant. <br>
+Cela a donc éveillé mon intérêt concernant une éventuelle transition de Valorant vers ce moteur. <br>
+<br>
+<br>
+
+
+| Nom                                | Type                       | Lien                                                                                                        | Description                                                                                                                                                                                                                       |
+|------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tout savoir sur Unreal Engine      | Site web                   | [Clique ici](https://www.realite-virtuelle.com/unreal-engine-tout-savoir/)                                  | Tout savoir sur la version 5 d'Unreal Engine                                                                                                                                                                                      |
+| Unreal Engine release 5            | Site officiel              | [Clique ici](https://docs.unrealengine.com/5.0/en-US/unreal-engine-5.0-release-notes/)                      | Informations de la release 5 d'Unreal Engine sur le rendu graphique                                                                                                                                                               |
+| [Tutoriel] Unreal Engine release 5 | Site web                   | [Clique ici](https://www.raywenderlich.com/31800833-unreal-engine-5-tutorial-for-beginners-getting-started) | Tutoriel utilisation UE5                                                                                                                                                                                                          |
+| Unreal Engine                      | Moteur de jeu              | [Site officiel](https://www.unrealengine.com/)                                                              | Unreal Engine est un moteur de jeu complet utilisé pour créer des jeux vidéo, des simulations, des films, des animations et d'autres expériences interactives.                                                                    |
+| Unreal Engine Documentation        | Documentation              | [Unreal Engine Documentation](https://docs.unrealengine.com/)                                               | La documentation officielle d'Unreal Engine fournit des guides, des tutoriels, des références et des exemples pour apprendre et utiliser le moteur de jeu.                                                                        |
+| Unreal Engine Marketplace          | Marché                     | [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace)                                       | Le marketplace d'Unreal Engine est une plateforme où les utilisateurs peuvent acheter, vendre et télécharger des ressources telles que des modèles 3D, des effets spéciaux, des plugins et des environnements pour leurs projets. |
+| Unreal Engine Forums               | Forum                      | [Unreal Engine Forums](https://forums.unrealengine.com/)                                                    | Les forums officiels d'Unreal Engine sont un lieu de discussion où les utilisateurs peuvent poser des questions, partager des connaissances, présenter leurs projets et interagir avec la communauté.                             |
+| Unreal Engine YouTube              | Chaîne YouTube             | [Unreal Engine YouTube](https://www.youtube.com/c/UnrealEngine)                                             | La chaîne YouTube officielle d'Unreal Engine propose des tutoriels vidéo, des démos, des présentations, des actualités et des conseils pour les utilisateurs du moteur de jeu.                                                    |
+| Unreal Engine Learning             | Ressources d'apprentissage | [Unreal Engine Learning](https://www.unrealengine.com/en-US/onlinelearning-courses)                         | Unreal Engine Learning offre une variété de cours en ligne, de tutoriels et de ressources d'apprentissage pour aider les utilisateurs à maîtriser les fonctionnalités et les techniques d'Unreal Engine.                          |
+| Unreal Engine GitHub               | Code source                | [GitHub](https://github.com/EpicGames/UnrealEngine)                                                         | Le code source d'Unreal Engine est disponible sur GitHub, offrant aux développeurs la possibilité de contribuer, de signaler des problèmes et d'accéder aux dernières mises à jour du moteur de jeu.                              |
+| Unreal Engine Blog                 | Blog                       | [Unreal Engine Blog](https://www.unrealengine.com/en-US/blog)                                               | Le blog officiel d'Unreal Engine propose des articles sur les nouvelles fonctionnalités, les projets exceptionnels, les conseils de développement et les annonces liées au moteur de jeu.                                         |
