@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcfd4dd7-8aa1-4c04-8f59-8ed4e01fe223" name="Changes" comment="Premières sources">
+    <list default="true" id="fcfd4dd7-8aa1-4c04-8f59-8ed4e01fe223" name="Changes" comment="Mise en forme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -84,7 +84,7 @@
       <workItem from="1728477323097" duration="4783000" />
       <workItem from="1728548099335" duration="12000" />
       <workItem from="1742198114143" duration="74000" />
-      <workItem from="1742198199485" duration="1839000" />
+      <workItem from="1742198199485" duration="2923000" />
     </task>
     <task id="LOCAL-00001" summary="Création Readme">
       <option name="closed" value="true" />
@@ -150,7 +150,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728485294693</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Dernières sources">
+      <option name="closed" value="true" />
+      <created>1742200131505</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1742200131505</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Mise en forme">
+      <option name="closed" value="true" />
+      <created>1742200506033</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1742200506033</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +188,8 @@
     <MESSAGE value="Delete .idea" />
     <MESSAGE value="Image Readme" />
     <MESSAGE value="Premières sources" />
-    <option name="LAST_COMMIT_MESSAGE" value="Premières sources" />
+    <MESSAGE value="Dernières sources" />
+    <MESSAGE value="Mise en forme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mise en forme" />
   </component>
 </project>
