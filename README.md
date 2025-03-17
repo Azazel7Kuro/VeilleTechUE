@@ -46,6 +46,18 @@ Cela a donc éveillé mon intérêt concernant une éventuelle transition de Val
 | Sigil : Table virtuelle pour D&D          | [Clique ici](https://www.polygon.com/dnd-dungeons-dragons/531824/sigil-dungeons-and-dragons-dnd-virtual-tabletop)                        | Présentation de Sigil, une table virtuelle pour D&D utilisant Unreal Engine 5. |
 | Valorant sur Unreal Engine                | [Clique ici](https://dotesports.com/valorant/news/valorant-unreal-engine-5-rumor)                                                        | Rumeurs concernant la possible transition de Valorant vers Unreal Engine 5.    |
 
+### 🐦 Twitter (Comptes Pros sur Unreal Engine)
+| Nom du Compte | Lien                                              | Description                                                       |
+|---------------|---------------------------------------------------|-------------------------------------------------------------------|
+| Unreal Engine | [@UnrealEngine](https://twitter.com/UnrealEngine) | Compte officiel d'Unreal Engine. News, updates, et conseils.      |
+| Epic Games    | [@EpicGames](https://twitter.com/EpicGames)       | Compte officiel d'Epic Games. News sur Unreal Engine et Fortnite. |
+| Unreal sensei | [@UnrealSensei](https://twitter.com/UnrealSensei) | Tutoriels et astuces pour Unreal Engine.                          |
+
+### 💬 Discord (Communautés Unreal Engine)
+| Nom du Serveur         | Lien                                                                          | Description                                                         |
+|------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| Unreal Engine Official | [Invite Discord](https://discord.com/invite/unreal-engine-978033435895562280) | Serveur officiel d'Unreal Engine pour les annonces et l'entraide.   |
+| Game Dev League        | [Invite Discord](https://discord.gg/gamedev)                                  | Communauté dédiée au développement de jeux, incluant Unreal Engine. |
 ## 💭 Conclusion
 
 Cette veille sur **Unreal Engine** m'a permis d'explorer diverses ressources couvrant tous les aspects du moteur de jeu, des fondamentaux aux projets avancés.  
