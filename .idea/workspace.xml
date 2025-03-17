@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcfd4dd7-8aa1-4c04-8f59-8ed4e01fe223" name="Changes" comment="Image Readme">
+    <list default="true" id="fcfd4dd7-8aa1-4c04-8f59-8ed4e01fe223" name="Changes" comment="Premières sources">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -12,6 +12,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,6 +31,7 @@
     &quot;accountId&quot;: &quot;f6c6ef35-6a1a-49d4-967e-f8212a823ee3&quot;
   }
 }</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -40,6 +44,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -51,11 +56,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="VeilleTechUE" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
       </set>
     </attachedChunks>
   </component>
@@ -67,7 +81,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728477321380</updated>
-      <workItem from="1728477323097" duration="4557000" />
+      <workItem from="1728477323097" duration="4783000" />
+      <workItem from="1728548099335" duration="12000" />
+      <workItem from="1742198114143" duration="74000" />
+      <workItem from="1742198199485" duration="1839000" />
     </task>
     <task id="LOCAL-00001" summary="Création Readme">
       <option name="closed" value="true" />
@@ -109,7 +126,31 @@
       <option name="project" value="LOCAL" />
       <updated>1728479697624</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Premières sources">
+      <option name="closed" value="true" />
+      <created>1728485213326</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728485213326</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Premières sources">
+      <option name="closed" value="true" />
+      <created>1728485267760</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728485267760</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Premières sources">
+      <option name="closed" value="true" />
+      <created>1728485294693</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728485294693</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +171,7 @@
     <MESSAGE value="Création Readme" />
     <MESSAGE value="Delete .idea" />
     <MESSAGE value="Image Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Image Readme" />
+    <MESSAGE value="Premières sources" />
+    <option name="LAST_COMMIT_MESSAGE" value="Premières sources" />
   </component>
 </project>
